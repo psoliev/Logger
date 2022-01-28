@@ -1,6 +1,6 @@
 <?php
 
-namespace Logger;
+namespace Psoliev\Logger;
 
 class Logger
 {
